@@ -1,0 +1,9 @@
+{
+    "name": "lx-test-node",
+    "description": "lx hello world test app",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "4.x"
+    }
+}
